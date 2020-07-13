@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  vertical-align: top;
+  box-sizing: border-box;
+  background-color: rgb(252, 252, 252);
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+h1 {
+  background-color: bisque;
+}
